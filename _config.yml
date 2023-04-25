@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://stefanraatz.github.io/Justthedocstemplate
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 aux_links:
   Prometheus Dokumentation: https://github.com/StefanRaatz/JustTheDocsTemplate
   Prometheus Project Page: https://github.com/TheContrappostoShop/Prometheus-MSLA
