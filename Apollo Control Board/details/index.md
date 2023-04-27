@@ -2,7 +2,7 @@
 layout: default
 title: Apollo Control Board Details
 parent: The Apollo Control Board
-nav_order: 2
+nav_order: 1
 ---
 <h2>Apollo Control Board Details</h2>
 <p>The Apollo motherboard is based on the RP2040 ARM cortex-M0+ microcontroller and it has<br>
