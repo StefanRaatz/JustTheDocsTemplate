@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 has_toc: false
 ---
-<h3>Hey there!</h3> 👋
+<h3>Hey there!👋</h3> 
 
 <p>We're a group of people from around the globe, based in Canda.<br>
 Our project is the Prometheus mSLA printer, a resin printer that aims to be fully open-source.</p>
