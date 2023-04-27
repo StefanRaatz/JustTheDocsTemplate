@@ -2,7 +2,7 @@
 layout: default
 title: Pi Installation
 parent: The Apollo Control Board
-nav_order: 2
+nav_order: 3
 ---
 <h2>Pi installation</h2>
 <p>The Prometheus MSLA controller board ( APOLLO ) is a carrier board for the raspberry pi 4B.<br>
