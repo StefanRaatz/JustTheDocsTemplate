@@ -1,5 +1,5 @@
 ---
-title: TheContrappostoShop
+title: The Contrapposto Shop
 layout: default
 nav_order: 1
 has_toc: false
@@ -11,10 +11,10 @@ Our project is the Prometheus mSLA printer, a resin printer that aims to be full
 
 <p>This consists of:
 <ul>
-    <li>The [CAD](https://github.com/TheContrappostoShop/Prometheus-MSLA)</li>
-    <li>The [Apollo Controller Board](https://github.com/TheContrappostoShop/Apollo)</li>
-    <li>The [Custom OS](https://github.com/TheContrappostoShop/PrometheusOS)</li>
-    <li>The Backend, [Odyssey](https://github.com/TheContrappostoShop/Odyssey)</li>
+    <li>The <a href="https://github.com/TheContrappostoShop/Prometheus-MSLA">CAD</a></li>
+    <li>The <a href="https://github.com/TheContrappostoShop/Apollo">Apollo Controller Board</a></li>
+    <li>The <a href="https://github.com/TheContrappostoShop/PrometheusOS">Custom OS</a></li>
+    <li>The Backend,<a href="https://github.com/TheContrappostoShop/Odyssey">Odyssey</a></li>
     <li>The Frontend (WIP)</li>
 </ul>
 </p>
