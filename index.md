@@ -18,5 +18,5 @@ Our project is the Prometheus mSLA printer, a resin printer that aims to be full
     <li>The Frontend (WIP)</li>
 </ul>
 </p>
-<p>We try to aim to stay as true to open-source as possible! As this is a WIP effort,<br>
+<p>We're aiming to stay as true to open-source as possible! As this is a WIP effort,<br>
 not all Licenses might be abiding by the requirements at all times.</p>
