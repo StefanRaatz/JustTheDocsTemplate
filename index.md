@@ -14,7 +14,7 @@ Our project is the Prometheus mSLA printer, a resin printer that aims to be full
     <li>The <a href="https://github.com/TheContrappostoShop/Prometheus-MSLA">CAD</a></li>
     <li>The <a href="https://github.com/TheContrappostoShop/Apollo">Apollo Controller Board</a></li>
     <li>The <a href="https://github.com/TheContrappostoShop/PrometheusOS">Custom OS</a></li>
-    <li>The Backend,<a href="https://github.com/TheContrappostoShop/Odyssey">Odyssey</a></li>
+    <li>The Backend<a href="https://github.com/TheContrappostoShop/Odyssey">Odyssey</a></li>
     <li>The Frontend (WIP)</li>
 </ul>
 </p>
